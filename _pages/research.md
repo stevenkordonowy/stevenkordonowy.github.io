@@ -10,7 +10,7 @@ social: false
 
 * [Realization of a Quantum Streaming Algorithm on Long-lived Trapped-ion Qubits](https://arxiv.org/abs/2511.03689) with JPMC, Quantinuum (2025)
 
-* [The Lie Algebra of XY-mixer Topologies and Warm Starting QAOA for Constrained Optimization](https://www.nature.com/articles/s41534-026-01192-4) with Hannes Leipold (2025) (Published in [npj Quantum Information](https://www.nature.com/articles/s41534-026-01192-4))
+* [The Lie Algebra of XY-mixer Topologies and Warm Starting QAOA for Constrained Optimization](https://arxiv.org/abs/2505.18396) with Hannes Leipold (2025) (Published in [npj Quantum Information](https://www.nature.com/articles/s41534-026-01192-4))
 
 * [Monogamy of Entanglement Bounds and Improved Approximation Algorithms for Qudit Hamiltonians](https://arxiv.org/abs/2410.15544) with Zackary Jorquera, Alexandra Kolla, Juspreet Singh Sandhu, Stuart Wayland (2024, in submission)
 
