@@ -6,13 +6,15 @@ description: My research focuses on quantum optimization algorithms but I am gen
 
 social: false
 ---
+* [A Perfectly Distributable Quantum-Classical Algorithm for Estimating Triangular Balance in a Signed Edge Stream](https://arxiv.org/abs/2603.16029) with Bibhas Adhikari and Hannes Leipold (2026)
+
 * [Digital signatures with classical shadows on near-term quantum computers](https://arxiv.org/pdf/2602.04859) with JPMC, Quantinuum (2026)
 
 * [Realization of a Quantum Streaming Algorithm on Long-lived Trapped-ion Qubits](https://arxiv.org/abs/2511.03689) with JPMC, Quantinuum (2025)
 
 * [The Lie Algebra of XY-mixer Topologies and Warm Starting QAOA for Constrained Optimization](https://arxiv.org/abs/2505.18396) with Hannes Leipold (2025) (Published in [npj Quantum Information](https://www.nature.com/articles/s41534-026-01192-4))
 
-* [Monogamy of Entanglement Bounds and Improved Approximation Algorithms for Qudit Hamiltonians](https://arxiv.org/abs/2410.15544) with Zackary Jorquera, Alexandra Kolla, Juspreet Singh Sandhu, Stuart Wayland (2024, in submission)
+* [Monogamy of Entanglement Bounds and Improved Approximation Algorithms for Qudit Hamiltonians](https://arxiv.org/abs/2410.15544) with Zackary Jorquera, Alexandra Kolla, Juspreet Singh Sandhu, Stuart Wayland (Published in [quantum-journal](https://quantum-journal.org/papers/q-2026-04-28-2088/))
 
 * [Approximation Algorithms for Quantum Max-d-Cut](https://arxiv.org/abs/2309.10957) with Charlie Carlson, Zackary Jorquera, Alexandra Kolla, Stuart Wayland (2023)
 
